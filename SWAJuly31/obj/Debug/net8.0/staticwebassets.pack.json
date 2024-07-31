@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\v-harshithav\\source\\repos\\July\\SWAJuly31\\SWAJuly31\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\v-harshithav\\source\\repos\\July\\SWAJuly31\\SWAJuly31\\obj\\Debug\\net8.0\\compressed\\m0329dg2ym.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\v-harshithav\\source\\repos\\July\\SWAJuly31\\SWAJuly31\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SWAJuly31.styles.css",
+      "PackagePath": "staticwebassets\\SWAJuly31.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\v-harshithav\\source\\repos\\July\\SWAJuly31\\SWAJuly31\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\v-harshithav\\source\\repos\\July\\SWAJuly31\\SWAJuly31\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\v-harshithav\\source\\repos\\July\\SWAJuly31\\SWAJuly31\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "C:\\Users\\v-harshithav\\source\\repos\\July\\SWAJuly31\\SWAJuly31\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\v-harshithav\\source\\repos\\July\\SWAJuly31\\SWAJuly31\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\v-harshithav\\source\\repos\\July\\SWAJuly31\\SWAJuly31\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\v-harshithav\\source\\repos\\July\\SWAJuly31\\SWAJuly31\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\v-harshithav\\source\\repos\\July\\SWAJuly31\\SWAJuly31\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\v-harshithav\\source\\repos\\July\\SWAJuly31\\SWAJuly31\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\v-harshithav\\source\\repos\\July\\SWAJuly31\\SWAJuly31\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\v-harshithav\\source\\repos\\July\\SWAJuly31\\SWAJuly31\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\v-harshithav\\source\\repos\\July\\SWAJuly31\\SWAJuly31\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SWAJuly31.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SWAJuly31.props",
+      "PackagePath": "build\\SWAJuly31.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SWAJuly31.props",
+      "PackagePath": "buildMultiTargeting\\SWAJuly31.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SWAJuly31.props",
+      "PackagePath": "buildTransitive\\SWAJuly31.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
